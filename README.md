@@ -5,7 +5,7 @@ This portfolio showcases the work I completed during my Data Analyst Internship,
 
 This internship was focused on building practical, real-world data analysis skills.
 During this journey, I worked on multiple projects that helped me understand the complete data analysis process, from data cleaning to visualization and reporting.
-The goal of this internship was to:
+The goal of this internship was to
 Learn how to work with real datasets.
 Improve problem-solving and analytical thinking.
 Gain hands-on experience with industry-relevant tools.
